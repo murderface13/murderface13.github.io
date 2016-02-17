@@ -15,6 +15,7 @@ comments: true
 и рассказать как я пришел к созданию этого самого блога.
 
 Когда меня впервые посетила эта идея - я начал писать приложения для блога самостоятельно. Еще бы, я же Ruby on Rails разработчик! 
+![jekyll-start]({{ site.url }}/assets/jekyll-start.jpg)
 ({{ site.baseurl }}/images/config.png)
 
 
