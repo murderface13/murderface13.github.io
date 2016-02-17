@@ -15,3 +15,25 @@ comments: true
 Цель блога - излагать мои мысли по поводу интересующих меня технологий, программ, инструментов и многих других вещей, которые меня окружают и с которыми я работаю. Кто знает - может мои мысли помогут еще кому-нибудь кроме меня стать на шаг ближе, на ступеньку выше во вселенной веб разработки? К каждой статье я буду прикреплять <a href='https://disqus.com/'>Disqus</a> - это самый простой и быстрый способ добавить комментарии к Jeqkyll. Думаю, что моя первая статья будет как раз о настройке Jekyll, чтобы закрепить материал и, возможно, помочь другим еще быстрее разобраться с этим.
 
 Думаю, на этом можно заканчивать мою первую, скорее всего бесполезную, статью. Если Вы дочитали до этого момента - я удивлен :) Ну что, давайте посмотрим насколько далеко я зайду с этой идеей - быть как крутой программист со своим личным блогом! А может и не "как", кто знает.
+
+
+<!--There is disqus comments code below-->
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = 'http://murzvo.github.io/Hello-World/';
+this.page.identifier = 'murzvo.github.io/Hello-World';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//muzakvladimir.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
