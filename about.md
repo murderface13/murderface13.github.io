@@ -12,18 +12,16 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[murzak.vv@gmail.com](murzak.vv@gmail.com)
+
+<!--There is disqus comments code below-->
 
 <div id="disqus_thread"></div>
 <script>
-/**
-* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-*/
 
 var disqus_config = function () {
-this.page.url = 'http://murzvo.github.io/about/'; // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 'murzvo.github.io/about'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = 'http://murzvo.github.io/about/';
+this.page.identifier = 'murzvo.github.io/about';
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
