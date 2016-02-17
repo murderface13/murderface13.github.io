@@ -16,7 +16,7 @@ comments: true
 
 Когда меня впервые посетила эта идея - я начал писать приложения для блога самостоятельно. Еще бы, я же Ruby on Rails разработчик! 
 
-<image src='../images/jekyll-start.jpg' />
+<image src='../images/jekyll-start-min.jpg' />
 
 
 
