@@ -4,33 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Всем привет и добро пожаловать в мой блог!
 
-### More Information
+Я искренне рад что кто-то меня читает!
 
-A place to include any other types of information that you'd like to include about yourself.
+### Немного обо мне
 
-### Contact me
+Я начал задумываться о своем блоге на моей первой работе Ruby on Rails в Sloboda Studio. Там я с полного нуля начал изучать веб разработку и вот я здесь, мотивирован и настроен писать сюда все свои мысли о моей работе и штуках, которые буду изучать.
+На первое время я решил вести свой блог на русском языке, т.к. мне на нем проще думается и быстрее пишется. Со временем буду переходить на английский, потому что мейнстрим - дело тонкое :)
 
-[murzak.vv@gmail.com](murzak.vv@gmail.com)
+Цель блога - излагать мои мысли по поводу интересующих меня технологий, программ, инструментов и многих других вещей, которые меня окружают и с которыми я работаю. Кто знает - может мои мысли помогут еще кому-нибудь кроме меня стать на шаг ближе, на ступеньку выше во вселенной веб разработки?
 
-<!--There is disqus comments code below-->
+Ну что, давайте посмотрим насколько далеко я зайду с этой идеей - быть как крутой программист со своим личным блогом! А может и не “как”, кто знает?
 
-<div id="disqus_thread"></div>
-<script>
+### Я на связи
 
-var disqus_config = function () {
-this.page.url = 'http://murzvo.github.io/about/';
-this.page.identifier = 'murzvo.github.io/about';
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-
-s.src = '//muzakvladimir.disqus.com/embed.js';
-
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+Если Вам нравится мой блог и/или Вы хотите со мной связаться, ссылки на мои социальные сети Вы можете найти в футере.
