@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Делаем жизнь проще с Jekyll
-comments: true
+image: logo-2x.png
 ---
 
 ```Вода mode: on```
